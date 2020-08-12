@@ -38,8 +38,12 @@ The project is created using the MERN-stack.
 
 -   Install all dependencies before running
 
+
     **Script**: `npm install`
 
+
 -   To run server
+
+
 
     **Script**: `npm run server`
